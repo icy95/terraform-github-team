@@ -2,8 +2,7 @@
 # Manual edits may be lost in future updates.
 
 provider "registry.terraform.io/hashicorp/github" {
-  version     = "4.6.0"
-  constraints = "4.6.0"
+  version = "4.6.0"
   hashes = [
     "h1:lmsWrVYAzyPhfeGdPwcs3Myrj2Xey+6UrXVhX0VZ/Fk=",
     "zh:22b529f43425a56fa9cc57774f54411a85ed7669bd66616799e119a9e5ddb676",
